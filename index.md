@@ -11,7 +11,7 @@
 
 把单词和翻译一行一行交错写在txt文件里，用它生成word文档，打印出来裁好，就是淘宝上70块3斤的单词卡（雾
 
-仓库地址：https://github.com/SMagic-L/GenerateWordCard
+仓库地址：[https://github.com/SMagic-L/GenerateWordCard](https://github.com/SMagic-L/GenerateWordCard)
 
 - **五子棋**
 
@@ -19,15 +19,15 @@
 
 visual basic .net 写的GUI，C语言写的dll
 
-可以编写自己的五子棋机器人，来和我一较高下
+可以编写自己的五子棋机器人，来和我一较高下，也欢迎来捉虫
 
-仓库地址：https://github.com/SMagic-L/wuziqi2020
+仓库地址：[https://github.com/SMagic-L/wuziqi2020](https://github.com/SMagic-L/wuziqi2020)
 
 - **笔算天天练**
 
 这是一个小学数学运算不过关的高中生的悲愤之作，可以练习四则运算、计算法向量、求椭圆方程、复数四则运算
 
-仓库地址：https://github.com/SMagic-L/Daily-Calculating/
+仓库地址：[https://github.com/SMagic-L/Daily-Calculating/](https://github.com/SMagic-L/Daily-Calculating/)
 
 
 
